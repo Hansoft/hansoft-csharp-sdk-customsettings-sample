@@ -5,7 +5,7 @@ About this program
 ------------------
 This sample code demonstrate how to use custom controls in the Hansoft client from the Hansoft .NET/Managed/C# SDK. It is bundled with the Hansoft SDK that can be downloaded from the [Hansoft website](http://www.hansoft.com/support/downloads/). 
 To be able to compile this program you need the Hansoft SDK DLLs that are included in that download. A Visual Studio solution is included for 
-building on Windows. 
+building on Windows. The file CustomSettings.ir contains definitions of the dialogs that are added to Hansoft.
 
 The program connects to a Hansoft server. To be able to do this you need a Hansoft license with the SDK module. If you need help with this, contact
 Hansoft support at <support@hansoft.com>. The program creates a scheduled task in every project and updates the task's date to the current date.
